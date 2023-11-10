@@ -1,0 +1,49 @@
+* {
+    margin: 0;
+    padding: 0;
+}
+
+body {
+    display: flex;
+    flex-direction: row;
+}
+
+header {
+    width: 25%;
+}
+
+.navbar {
+    height: 100vh;
+
+    align-items: baseline;
+    align-content: flex-start;
+}
+
+.navbar-brand {
+    width: 100%;
+    text-align: center;
+
+    margin: 30% 0 20% 0!important;
+    padding: 0!important;
+}
+
+.div-hyperlinks {
+    display: flex;
+    flex-direction: column;
+
+    width: 100%;
+}
+
+.div-hyperlinks a {
+    width: 100%;
+    text-align: center;
+
+    padding-top: 5%;
+
+    text-decoration: none;
+    color: black;
+}
+
+.div-hyperlinks a:hover {
+    text-decoration: underline;
+}

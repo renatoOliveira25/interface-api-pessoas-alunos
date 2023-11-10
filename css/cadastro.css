@@ -1,0 +1,30 @@
+.conteudo {
+    width: 75%;
+}
+
+.conteudo h1 {
+    text-align: center;
+    padding-top: 10%;
+}
+
+.input-group {
+    width: 80%;
+    margin: 0 auto;
+    padding-top: 2%;
+}
+
+.input-group-text {
+    width: 20%;
+}
+
+.btn-cadastrar {
+    width: 100%;
+    display: flex;
+    justify-content: center;
+
+    margin-top: 2%;
+}
+
+.btn {
+    width: 80%;
+}
